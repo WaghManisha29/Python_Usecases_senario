@@ -1,0 +1,5 @@
+#congif file
+config/config.json
+
+#env
+myenv/
