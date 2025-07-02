@@ -1,0 +1,13 @@
+# Ignore sensitive config
+config/db_config.yaml
+
+# Ignore generated output
+output/
+
+# Virtual environments
+myenv/
+.env/
+
+# OS/system files
+.DS_Store
+Thumbs.db

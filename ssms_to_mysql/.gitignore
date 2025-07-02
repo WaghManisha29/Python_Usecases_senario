@@ -1,0 +1,16 @@
+# Ignore sensitive config
+config/db_config.ini
+
+# Ignore generated output
+output/
+
+# Virtual environments
+myenv/
+.env/
+#notebook
+notebook/mysql.ipynb
+notebook/config.ini
+
+# OS/system files
+.DS_Store
+Thumbs.db

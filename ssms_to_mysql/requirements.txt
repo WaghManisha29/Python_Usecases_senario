@@ -1,0 +1,6 @@
+pyodbc
+pymysql
+sqlalchemy
+pandas
+configparser
+python-dotenv
