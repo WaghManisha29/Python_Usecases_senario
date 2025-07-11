@@ -1,8 +1,8 @@
 .env/
 myenv/
-gmail_auth/ crendentials.json
-gmail_auth/ gmail_token.json
-gmail_auth/ tokens.json
+gmail_auth/crendentials.json
+gmail_auth/gmail_token.json
+gmail_auth/tokens.json
 authorize_gmail.py
 get_token.py
 test_db.py
