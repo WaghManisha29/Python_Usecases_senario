@@ -1,0 +1,6 @@
+.env/
+myenv/
+gmail_auth/
+authorize_gmail.py
+get_token.py
+test_db.py
