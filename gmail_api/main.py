@@ -1,3 +1,4 @@
+"""
 import os
 from dotenv import load_dotenv
 from modules.email_extractor import extract_emails, get_gmail_service
@@ -27,3 +28,4 @@ try:
 
 except Exception as e:
     print(f"❌ Error occurred: {e}")
+"""

@@ -1,3 +1,4 @@
+"""
 import base64
 from email import message_from_bytes
 from datetime import datetime
@@ -67,3 +68,4 @@ def extract_emails(service, max_results=10):
         })
 
     return emails
+"""
